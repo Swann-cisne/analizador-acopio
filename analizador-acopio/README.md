@@ -11,10 +11,10 @@ El programa procesa los registros de las jornadas de acopio (código, material, 
 - Tener instalado **Node.js** (versión 14 o superior).
 - Para ejecutar el proyecto, abre la terminal en la carpeta raíz (`analizador-acopio`) y ejecuta:
 
-bash node src/index.js
+``````bash node src/index.js
 
 
-``````Estructura del proyecto
+Estructura del proyecto
 El proyecto respeta la estructura mínima requerida:
 
 Plaintext
