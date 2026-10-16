@@ -1,3 +1,5 @@
+`````
+
 # Analizador de Acopio - Estación de Reciclaje Comunitario
 
 Para este trabajo desarrollé un analizador en JavaScript que se ejecuta sobre **Node.js**.
@@ -11,9 +13,7 @@ El programa procesa los registros de las jornadas de acopio (código, material, 
 - Tener instalado **Node.js** (versión 14 o superior).
 - Para ejecutar el proyecto, abre la terminal en la carpeta raíz (`analizador-acopio`) y ejecuta:
 
-- bash node src/index.js
-
-``````
+  bash node src/index.js
 
 
 Estructura del proyecto
