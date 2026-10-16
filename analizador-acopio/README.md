@@ -13,7 +13,6 @@ El programa procesa los registros de las jornadas de acopio (código, material, 
 
 ```bash node src/index.js
 
----------------------------------------------------------------------------
 
 Estructura del proyecto
 El proyecto respeta la estructura mínima requerida:
